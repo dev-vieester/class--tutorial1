@@ -58,19 +58,33 @@ name = "Victor"
 # print(full_name)
 
 #f- format
-first_name = "Awele"
-last_name = "Queen"
-gender = "female"
-state = "Lagos"
-price = 12.98938768768
-age = 40
-full_name = f"{first_name} {last_name} is a {gender} and she lives in {state} and she sells bags for {price:.3f} and she is {age} years old"
-print(full_name)
+# first_name = "Awele"
+# last_name = "Queen"
+# gender = "female"
+# state = "Lagos"
+# price = 12.98938768768
+# age = 40
+# full_name = f"{first_name} {last_name} is a {gender} and she lives in {state} and she sells bags for {price:.3f} and she is {age} years old"
+# print(full_name)
 
-#Escape Character
-txt = "We are the so-called "Vikings" from the north."
-txt = "We are the so-called \"Vikings\" \nfrom the north."
-sentence = 'I\'m a boy'
+# sentence = "I'm a boy"
+# new_sentence = 'I\'m boy'
+# long_story= '''
+# hello my name is Victor
+# i am a boy
+# i am 20 years old
+# i live in ilorin
+# '''
+# new_long_story = "\thello my name \bis Victor \ni am a boy \ni am 20 years old \ni live in ilorin"
+# print(new_long_story)
+
+name = 'precious is a girl, and she lives girl in ondo state girl'
+print(name.capitalize())
+print(name.find('z'))
+
+#function
+
+
 
 
 
